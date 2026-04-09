@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Informativo Simões Corrêa & Lacal</title>
+</head>
+<body style="margin:0; padding:0; background-color:#F4F4F4; font-family:Arial, Helvetica, sans-serif; color:#333333;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#F4F4F4; margin:0; padding:0;">
+    <tr>
+      <td align="center" style="padding:30px 15px;">
+        <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="width:100%; max-width:600px; background-color:#FFFFFF; border-collapse:collapse;">
+
+          <!-- HEADER -->
+          <tr>
+            <td style="background-color:#0F3D66; padding:28px 32px 22px 32px;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td align="left">
+                    <img src="https://via.placeholder.com/280x90?text=SIM%C3%95ES+CORR%C3%8AA+%26+LACAL" alt="Simões Corrêa & Lacal Advogados" style="display:block; max-width:280px; width:100%; height:auto; border:0;" />
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td style="height:6px; line-height:6px; font-size:0; background-color:#7FB23A;">&nbsp;</td>
+          </tr>
+
+          <!-- TITULO -->
+          <tr>
+            <td style="padding:34px 32px 10px 32px;">
+              <h1 style="margin:0; font-size:29px; line-height:36px; color:#0F3D66; font-weight:bold;">
+                Informativo Simões Corrêa &amp; Lacal
+              </h1>
+            </td>
+          </tr>
+
+          <!-- SUBTITULO -->
+          <tr>
+            <td style="padding:0 32px 24px 32px;">
+              <p style="margin:0; font-size:16px; line-height:24px; color:#555555;">
+                Atualizações, análises e temas estratégicos para empresas, investidores e parceiros.
+              </p>
+            </td>
+          </tr>
+
+          <!-- ABERTURA -->
+          <tr>
+            <td style="padding:0 32px 28px 32px;">
+              <p style="margin:0; font-size:15px; line-height:24px; color:#333333;">
+                Nesta edição, reunimos conteúdos relevantes para a tomada de decisão empresarial, com foco em temas tributários, regulatórios e contratuais com impacto prático nos negócios.
+              </p>
+            </td>
+          </tr>
+
+          <!-- DESTAQUE PRINCIPAL -->
+          <tr>
+            <td style="padding:0 32px 12px 32px;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border:1px solid #E6E6E6; border-left:5px solid #7FB23A;">
+                <tr>
+                  <td style="padding:24px;">
+                    <p style="margin:0 0 8px 0; font-size:12px; line-height:18px; color:#7FB23A; font-weight:bold; text-transform:uppercase; letter-spacing:0.5px;">
+                      Destaque da edição
+                    </p>
+                    <h2 style="margin:0 0 12px 0; font-size:22px; line-height:30px; color:#0F3D66; font-weight:bold;">
+                      [Título principal do conteúdo]
+                    </h2>
+                    <p style="margin:0 0 18px 0; font-size:15px; line-height:24px; color:#333333;">
+                      [Insira aqui um resumo executivo de 3 a 5 linhas sobre o tema principal da newsletter. Este espaço pode ser usado para artigo de sócio, alerta regulatório, webinar ou análise setorial.]
+                    </p>
+                    <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="background-color:#0F3D66; border-radius:3px;">
+                          <a href="#" style="display:inline-block; padding:12px 18px; font-size:14px; line-height:14px; color:#FFFFFF; text-decoration:none; font-weight:bold;">
+                            Saiba mais
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- BLOCOS SECUNDARIOS -->
+          <tr>
+            <td style="padding:20px 32px 8px 32px;">
+              <h3 style="margin:0; font-size:18px; line-height:24px; color:#0F3D66; font-weight:bold;">
+                Outros destaques
+              </h3>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 32px 10px 32px;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+                <tr>
+                  <td style="padding:18px 0; border-bottom:1px solid #EAEAEA;">
+                    <h4 style="margin:0 0 8px 0; font-size:16px; line-height:22px; color:#0F3D66; font-weight:bold;">
+                      [Título do conteúdo secundário 1]
+                    </h4>
+                    <p style="margin:0 0 10px 0; font-size:14px; line-height:22px; color:#444444;">
+                      [Resumo curto do conteúdo secundário 1. Exemplo: atualização regulatória, convite para webinar, vídeo ou artigo.]
+                    </p>
+                    <a href="#" style="font-size:14px; line-height:20px; color:#7FB23A; text-decoration:none; font-weight:bold;">
+                      Ler mais
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:18px 0; border-bottom:1px solid #EAEAEA;">
+                    <h4 style="margin:0 0 8px 0; font-size:16px; line-height:22px; color:#0F3D66; font-weight:bold;">
+                      [Título do conteúdo secundário 2]
+                    </h4>
+                    <p style="margin:0 0 10px 0; font-size:14px; line-height:22px; color:#444444;">
+                      [Resumo curto do conteúdo secundário 2. Use este espaço para um segundo tema institucional ou setorial.]
+                    </p>
+                    <a href="#" style="font-size:14px; line-height:20px; color:#7FB23A; text-decoration:none; font-weight:bold;">
+                      Ler mais
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:18px 0 6px 0;">
+                    <h4 style="margin:0 0 8px 0; font-size:16px; line-height:22px; color:#0F3D66; font-weight:bold;">
+                      [Título do conteúdo secundário 3]
+                    </h4>
+                    <p style="margin:0 0 10px 0; font-size:14px; line-height:22px; color:#444444;">
+                      [Resumo curto do conteúdo secundário 3. Pode ser um evento, uma nota institucional ou um insight jurídico.]
+                    </p>
+                    <a href="#" style="font-size:14px; line-height:20px; color:#7FB23A; text-decoration:none; font-weight:bold;">
+                      Ler mais
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- BLOCO INSTITUCIONAL -->
+          <tr>
+            <td style="padding:20px 32px 0 32px;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#F8F8F8; border:1px solid #EAEAEA;">
+                <tr>
+                  <td style="padding:24px;">
+                    <h3 style="margin:0 0 12px 0; font-size:18px; line-height:24px; color:#0F3D66; font-weight:bold;">
+                      Sobre o escritório
+                    </h3>
+                    <p style="margin:0; font-size:14px; line-height:23px; color:#444444;">
+                      A <strong>Simões Corrêa &amp; Lacal Advogados</strong> atua em Direito Tributário, Contratos e Planejamento Empresarial, assessorando empresas, investidores e estruturas patrimoniais em decisões estratégicas de médio e longo prazo.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- CTA -->
+          <tr>
+            <td style="padding:28px 32px 34px 32px;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td align="left">
+                    <p style="margin:0 0 14px 0; font-size:15px; line-height:24px; color:#333333;">
+                      Gostaria de aprofundar algum dos temas desta edição?
+                    </p>
+                    <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="background-color:#FFFFFF; border:1px solid #7FB23A; border-radius:3px;">
+                          <a href="mailto:gcolimerio@simoescorrea.com.br" style="display:inline-block; padding:12px 18px; font-size:14px; line-height:14px; color:#7FB23A; text-decoration:none; font-weight:bold;">
+                            Fale com nossa equipe
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- RODAPE -->
+          <tr>
+            <td style="background-color:#EFEFEF; padding:24px 32px;">
+              <p style="margin:0 0 8px 0; font-size:13px; line-height:20px; color:#555555; font-weight:bold;">
+                Simões Corrêa &amp; Lacal Advogados
+              </p>
+              <p style="margin:0 0 6px 0; font-size:12px; line-height:20px; color:#666666;">
+                E-mail: <a href="mailto:gcolimerio@simoescorrea.com.br" style="color:#0F3D66; text-decoration:none;">gcolimerio@simoescorrea.com.br</a>
+              </p>
+              <p style="margin:0 0 6px 0; font-size:12px; line-height:20px; color:#666666;">
+                Website: <a href="https://www.simoescorrea.com.br" style="color:#0F3D66; text-decoration:none;">www.simoescorrea.com.br</a>
+              </p>
+              <p style="margin:0; font-size:11px; line-height:18px; color:#888888;">
+                Você está recebendo este informativo por seu relacionamento com o escritório ou por interesse em nossos conteúdos institucionais.
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
